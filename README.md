@@ -1,6 +1,6 @@
 # Uglifier
 
-Ruby wrapper for [UglifyJS](https://github.com/mishoo/UglifyJS2) JavaScript
+Ruby wrapper for  [UglifyJS](https://github.com/mishoo/UglifyJS2) JavaScript
 compressor.
 
 UglifyJS only works with ES5. If you need to compress ES6, [ruby-terser](https://github.com/ahorek/terser-ruby) is a better option.
